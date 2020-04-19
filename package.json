@@ -1,11 +1,14 @@
 {
-  "name": "cowtalk",
+  "name": "cowsay-js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "cowsay2": "^2.0.4",
+    "fortune-teller": "github:williamfligor/fortune#b3c82311a7322f681d465e347dade7ea5346a2ef",
+    "prettier": "^2.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
